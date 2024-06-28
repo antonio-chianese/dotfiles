@@ -13,7 +13,7 @@
 > #### Download and set up wsl, fish, vim and neovim
 > - On windows powershell: ```wsl --install```.
 > - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim && sudo apt install neovim```.
-> - In order to install fish: ```sudo apt-get install fish```.
+> - In order to install fish: ```sudo apt-get install fish```. Once installed, you can type ```fish``` for using it only once.
 > - In order to set fish to default: ```sudo chsh -s /bin/fish [user_name]```.
 > - In order to see shells available: ```vi etc/shells```.
 > #### Create plugin file (neovim)
