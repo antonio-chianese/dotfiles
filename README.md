@@ -18,3 +18,15 @@
 
 > ## How to install plugins in neovim
 > - type here
+
+> ## Usefull links
+> - https://www.youtube.com/watch?v=ZWWxwwUsPNw (how to set up lazy vim - https://github.com/folke/lazy.nvim)
+> - https://medium.com/@shaikzahid0713/installing-neovim-and-packer-package-manager-for-neovim-30e166f8495a (how to set up lazy vim - https://github.com/folke/lazy.nvim)
+> - https://phoenixnap.com/kb/vim-commands-cheat-sheet (vim cheatsheet)
+> - https://castel.dev/post/lecture-notes-1/ (vimtex guide)
+> - https://www.youtube.com/@SeniorMarsTries/videos (SeniorMars - YouTube)
+> - https://github.com/SeniorMars/dotfiles/blob/master/.config/nvim/init.lua (SeniorMars - GitHub plugins)
+
+> ## Latex Templates
+> - https://github.com/SeniorMars/dotfiles/tree/master/latex_template (SeniorMars)
+> - https://github.com/tecosaur/BMC (Template)
