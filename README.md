@@ -4,8 +4,10 @@
 > Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
 > #### Access files in windows explorer
 > If using WSL, files are located in the following path (which uses the space of your main disk): ```\\wsl.localhost\[distribution_name]\home\[user_name]```. In my case is the following: ```\\wsl.localhost\Ubuntu\home\antonioc```.
-> #### Copying files in windows clipboard
+> #### Copying files in windows clipboard (from vim to windows clip)
 > Use the following command in the linux terminal: ```cat [file_name] | clip.exe```.
+> #### Pasting files in vim (from windows clip to vim)
+> Use the following key-binding: ```Ctrl + Shift + V```.
 
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, vim and neovim
