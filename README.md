@@ -25,6 +25,7 @@
 > - type here
 
 > ## Usefull links
+> - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
 > - https://www.youtube.com/watch?v=ZWWxwwUsPNw (how to set up lazy vim - https://github.com/folke/lazy.nvim)
 > - https://medium.com/@shaikzahid0713/installing-neovim-and-packer-package-manager-for-neovim-30e166f8495a (how to set up lazy vim - https://github.com/folke/lazy.nvim)
 > - https://phoenixnap.com/kb/vim-commands-cheat-sheet (vim cheatsheet)
