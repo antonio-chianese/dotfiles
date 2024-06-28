@@ -10,9 +10,12 @@
 > Use the following key-binding: ```Ctrl + Shift + V```.
 
 > ## How to set up wsl for vim and neovim
-> #### Download and set up wsl, vim and neovim
+> #### Download and set up wsl, fish, vim and neovim
 > - On windows powershell: ```wsl --install```.
-> - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim && sudo apt install neovim```
+> - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim && sudo apt install neovim```.
+> - In order to install fish: ```sudo apt-get install fish```.
+> - In order to set fish to default: ```sudo chsh -s /bin/fish [user_name]```.
+> - In order to see shells available: ```vi etc/shells```.
 > #### Create plugin file (neovim)
 > - On wsl terminal: ```mkdir ~/.config/nvim && cd ~/.config/nvim``` and then ```touch init.lua```.
 > #### Create plugin file (vim)
