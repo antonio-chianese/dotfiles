@@ -1,5 +1,12 @@
 # Vim Configuration
-## -------------------------------USEFULL INFORMATIONS-------------------------------
+> #### Usefull informations
+> ## File location
+> Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
+>
+>  *Everything* is going according to **plan**.
+
+
+
 ## File location
 Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
 ## Access files in windows explorer
