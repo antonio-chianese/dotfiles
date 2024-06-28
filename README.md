@@ -8,6 +8,9 @@
 > Use the following command in the linux terminal: ```cat [file_name] | clip.exe```.
 > #### Pasting files in vim (from windows clip to vim)
 > Use the following key-binding: ```Ctrl + Shift + V```.
+> #### How to add some text in visual block mode
+> - Select lines in Visual block mode.
+> - Press ```:``` and then type ```norm I[your_text]```.
 
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, fish, vim and neovim
