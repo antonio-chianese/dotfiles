@@ -25,6 +25,9 @@
 > - In order to see shells available: ```vi etc/shells```.
 > - Install tree: ```sudo apt install tree```.
 > - Install exa: ```sudo apt install exa```.
+> #### Create aliases
+> - Modify the fish config file: ```vi ~/.config/fish/config.fish```.
+> - Execute the fish config file to make modifications effective: ```source ~/.config/fish/config.fish```.
 > #### Create plugin file (neovim)
 > - On wsl terminal: ```mkdir ~/.config/nvim && cd ~/.config/nvim``` and then ```touch init.lua```.
 > #### Create plugin file (vim)
