@@ -49,6 +49,7 @@
 > - https://castel.dev/post/lecture-notes-1/ (vimtex guide)
 > - https://www.youtube.com/@SeniorMarsTries/videos (SeniorMars - YouTube)
 > - https://github.com/SeniorMars/dotfiles/blob/master/.config/nvim/init.lua (SeniorMars - GitHub plugins)
+> - https://www.youtube.com/watch?v=i-T5rJ1WkOI (GitHub private)
 
 > ## Latex Templates
 > - https://github.com/SeniorMars/dotfiles/tree/master/latex_template (SeniorMars)
