@@ -20,15 +20,23 @@
 > #### Download and set up wsl, fish, tree, exa, vim and neovim
 > - On windows powershell: ```wsl --install```.
 > - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim && sudo apt install neovim```.
-> - In order to install fish: ```sudo apt-get install fish```. Once installed, you can type ```fish``` for using it only once.
+> - In order to install fish: ```sudo apt install fish```. Once installed, you can type ```fish``` for using it only once.
 > - In order to set fish to default: ```sudo chsh -s /bin/fish [user_name]```.
 > - In order to see shells available: ```vi etc/shells```.
-> - Install tree: ```sudo apt-get install tree```.
-> - Install exa: ```sudo apt-get install exa```.
+> - Install tree: ```sudo apt install tree```.
+> - Install exa: ```sudo apt install exa```.
 > #### Create plugin file (neovim)
 > - On wsl terminal: ```mkdir ~/.config/nvim && cd ~/.config/nvim``` and then ```touch init.lua```.
 > #### Create plugin file (vim)
 > - On wsl terminal: ```touch ~/.vimrc```.
+> #### Install and configure git
+> - Install git: ```sudo apt install git```.
+> - Configure git (Add email address so that when you push your changes to git hub, it knows which user did it): ```git config --global user.name "[git_user_name]"``` and ```git config --global user.email "[git_user_email]"```. Submit ```git config --list``` to see your inputs.
+> - Clone your repository: ```git clone [repository_url]```.
+> - If the repository is private: Git Account > Settings > Developer Settings > Personal Access Tokens > Tokens (classic). On the right, click "Generate new token" and switch it in "Generate new token (classic)". Write a note for what's the token for (i.g. repo) and choose "No expiration" in the expiration block. Go down and select "repo", and finally select generate token. Copy it in a safe place and go back to the terminal. Now write: ```git clone https://[repo_token]@github.com/[repo_url]```. 
+> - To check file status: ```git status```.
+> - To commit changes: ```git add .``` and ```git commit -m "[note]"``` and ```git push```.
+> - Get the updated version of your repository (i.g. if you have made changes on github browser): ```git pull```.
 
 > ## How to install plugins in neovim
 > - type here
