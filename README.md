@@ -13,17 +13,18 @@
 > - Press ```:``` and then type ```norm I[your_text]```.
 
 > ## Fish key-bindings
-> - prevd/nextd: ```Alt + Left/Right Arrow```
+> - prevd/nextd: ```Alt + Left/Right Arrow```.
 > - 
 
 > ## How to set up wsl for vim and neovim
-> #### Download and set up wsl, fish, tree, vim and neovim
+> #### Download and set up wsl, fish, tree, exa, vim and neovim
 > - On windows powershell: ```wsl --install```.
 > - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim && sudo apt install neovim```.
 > - In order to install fish: ```sudo apt-get install fish```. Once installed, you can type ```fish``` for using it only once.
 > - In order to set fish to default: ```sudo chsh -s /bin/fish [user_name]```.
 > - In order to see shells available: ```vi etc/shells```.
 > - Install tree: ```sudo apt-get install tree```.
+> - Install exa: ```sudo apt-get install exa```.
 > #### Create plugin file (neovim)
 > - On wsl terminal: ```mkdir ~/.config/nvim && cd ~/.config/nvim``` and then ```touch init.lua```.
 > #### Create plugin file (vim)
