@@ -12,6 +12,10 @@
 > - Select lines in Visual block mode.
 > - Press ```:``` and then type ```norm I[your_text]```.
 
+> ## Fish key-bindings
+> - prevd/nextd: ```Alt + Left/Right Arrow```
+> - 
+
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, fish, tree, vim and neovim
 > - On windows powershell: ```wsl --install```.
