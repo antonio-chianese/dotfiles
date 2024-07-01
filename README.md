@@ -14,7 +14,6 @@
 
 > ## Fish key-bindings
 > - prevd/nextd: ```Alt + Left/Right Arrow```.
-> - 
 
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, fish, tree, exa, vim and neovim
@@ -49,6 +48,9 @@
 > - To check file status: ```git status```.
 > - To commit changes: ```git add .``` and ```git commit -m "[note]"``` and ```git push```.
 > - Get the updated version of your repository (i.g. if you have made changes on github browser): ```git pull```.
+> #### Install workspacer
+> - Link: https://workspacer.org/.
+> - 
 
 > ## How to install plugins in neovim
 > - type here
@@ -62,6 +64,7 @@
 > - https://www.youtube.com/@SeniorMarsTries/videos (SeniorMars - YouTube)
 > - https://github.com/SeniorMars/dotfiles/blob/master/.config/nvim/init.lua (SeniorMars - GitHub plugins)
 > - https://www.youtube.com/watch?v=i-T5rJ1WkOI (GitHub private)
+> - https://www.youtube.com/watch?v=0NXHv1CjxM0 (i3wm on windows)
 
 > ## Latex Templates
 > - https://github.com/SeniorMars/dotfiles/tree/master/latex_template (SeniorMars)
