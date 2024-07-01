@@ -24,7 +24,7 @@
 > - In order to set fish to default: ```sudo chsh -s /bin/fish [user_name]```.
 > - In order to see shells available: ```vi etc/shells```.
 > - Install tree: ```sudo apt install tree```.
-> - Install exa: ```sudo apt install exa```.
+> - Install exa with git support: ```sudo apt install cargo``` and ```cargo install --vers 0.9.0 exa```.
 > #### Create aliases
 > - Modify the fish config file: ```vi ~/.config/fish/config.fish```.
 > - Execute the fish config file to make modifications effective: ```source ~/.config/fish/config.fish```.
