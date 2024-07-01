@@ -26,14 +26,14 @@
 > - Install tree: ```sudo apt install tree```.
 > - Install exa with git support: ```sudo apt install cargo``` and ```cargo install --vers 0.9.0 exa```. Finally: ```set -Ux fish_user_paths /home/[user_name]/.cargo/bin $fish_user_paths```. Verify that cargo has been added to $PATH: ```echo $PATH```.
 > #### Install nerdfonts
-> Go to https://github.com/ryanoasis/nerd-fonts, select a font and download it.
-> Create the fonts directory: ```mkdir -p ~/.local/share/fonts```.
-> Curl the font in the fonts directory: ```curl -fLo "[font_name].ttf/otf" [github_font_link]```.
+> - Go to https://github.com/ryanoasis/nerd-fonts, select a font and download it.
+> - Create the fonts directory: ```mkdir -p ~/.local/share/fonts```.
+> - Curl the font in the fonts directory: ```curl -fLo "[font_name].ttf/otf" [github_font_link]```.
 > #### Install alacritty
-> Install alacritty from the following link: https://github.com/alacritty/alacritty/releases.
-> Create the ```alacritty.yml``` file in the following path: ```%APPDATA%\alacritty\alacritty.yml```.
-> Once you are happy with the configuration just execute ```alacritty migrate``` in the windows powershell.
-> For nerdfonts, install them in windows.
+> - Install alacritty from the following link: https://github.com/alacritty/alacritty/releases.
+> - Create the ```alacritty.yml``` file in the following path: ```%APPDATA%\alacritty\alacritty.yml```.
+> - Once you are happy with the configuration just execute ```alacritty migrate``` in the windows powershell.
+> - For nerdfonts, install them in windows.
 > #### Create aliases
 > - Modify the fish config file: ```vi ~/.config/fish/config.fish```.
 > - Execute the fish config file to make modifications effective: ```source ~/.config/fish/config.fish```.
