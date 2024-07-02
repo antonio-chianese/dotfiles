@@ -17,6 +17,7 @@ alias glazewmrc='$EDITOR /mnt/c/Users/chian/.glaze-wm/config.yaml'
 alias md='mkdir -p'
 alias rd='rmdir'
 alias tree='tree -a'
+alias c='clear'
 
 # FUNCTIONS
 function wclip
