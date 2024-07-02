@@ -56,7 +56,7 @@ bar:
   border_radius: "0" # 3
   components_left:
     - type: "workspaces"
-      focused_workspace_background: "transparent"
+      focused_workspace_background: "#ffffff33"
       displayed_workspace_background: "transparent"
       default_workspace_background: "transparent"
       padding: "0px 10px"
@@ -138,6 +138,8 @@ window_rules:
   # Some applications (eg. Steam) have borders that extend past the normal border size.
   - command: "resize borders 0px -7px -7px -7px"
     match_process_name: "steam"
+  - command: "resize borders 0px -7px -7px -7px"
+    match_process_name: "alacritty"
 
 binding_modes:
   - name: "resize"
@@ -158,23 +160,23 @@ binding_modes:
 keybindings:
   # Shift focus in a given direction.
   - command: "focus left"
-    bindings: ["Alt+H", "Alt+Left"]
+    bindings: ["Alt+H"] # ["Alt+H", "Alt+Left"]
   - command: "focus right"
-    bindings: ["Alt+L", "Alt+Right"]
+    bindings: ["Alt+L"] # ["Alt+L", "Alt+Right"]
   - command: "focus up"
-    bindings: ["Alt+K", "Alt+Up"]
+    bindings: ["Alt+K"] # ["Alt+K", "Alt+Up"]
   - command: "focus down"
-    bindings: ["Alt+J", "Alt+Down"]
+    bindings: ["Alt+J"] # ["Alt+J", "Alt+Down"]
 
   # Move focused window in a given direction.
   - command: "move left"
-    bindings: ["Alt+Shift+H", "Alt+Shift+Left"]
+    bindings: ["Alt+Shift+H"] # ["Alt+Shift+H", "Alt+Shift+Left"]
   - command: "move right"
-    bindings: ["Alt+Shift+L", "Alt+Shift+Right"]
+    bindings: ["Alt+Shift+L"] # ["Alt+Shift+L", "Alt+Shift+Right"]
   - command: "move up"
-    bindings: ["Alt+Shift+K", "Alt+Shift+Up"]
+    bindings: ["Alt+Shift+K"] # ["Alt+Shift+K", "Alt+Shift+Up"]
   - command: "move down"
-    bindings: ["Alt+Shift+J", "Alt+Shift+Down"]
+    bindings: ["Alt+Shift+J"] # ["Alt+Shift+J", "Alt+Shift+Down"]
 
   # Resize focused window by a percentage or pixel amount.
   - command: "resize width -2%"
