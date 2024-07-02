@@ -7,7 +7,7 @@ window:
         general: Alacritty
     opacity: 0.9
     blur: true
-    decorations: None
+    #decorations: None
     #dimensions:
         #columns: 118
         #lines: 59
