@@ -65,16 +65,8 @@
 > ## How to install neovim plugins
 > #### Install lazy.nvim
 > - Link: https://lazy.folke.io/installation. From here copy the content of the first 2 files.
+> - Type: ```sudo apt install luarocks```
 > - From lazy.nvim website: "You can then create your plugin specs in ```~/.config/nvim/lua/plugins/```. Each file should return a table with the plugins you want to install".
-> ~/.config/nvim
-> ├── lua
-> │   ├── config
-> │   │   └── lazy.lua
-> │   └── plugins
-> │       ├── spec1.lua
-> │       ├── **
-> │       └── spec2.lua
-> └── init.lua
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
