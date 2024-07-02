@@ -66,7 +66,8 @@
 > #### Install lazy.nvim
 > - Link: https://lazy.folke.io/installation. From here copy the content of the first 2 files.
 > - Paste ```require("config.lazy")``` on the init.lua file.
-> - WRITEHEREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+> - Type ```nvim``` and ```:checkhealt lazy``` to verify all is fine.
+> - Type: ```sudo apt install luarocks```.
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
