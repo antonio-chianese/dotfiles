@@ -52,6 +52,8 @@
 > #### Install GlazeWM
 > - Link: https://github.com/glzr-io/glazewm?tab=readme-ov-file.
 > - Go to the following path: ```%LOCALAPPDATA%\Microsoft\Winget\Packages\```, find the directory of GlazeWM and open it. Press 'Yes' when it asks 'Create a config file?'. Config file location: ```C:\Users\[user_name]\.glaze-wm\config.yaml```
+> #### Install lazy.nvim
+> - Link: https://lazy.folke.io/. Follow the instructions in the link.
 
 > ## How to install neovim plugins
 > - type here
