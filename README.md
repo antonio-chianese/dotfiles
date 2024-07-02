@@ -1,7 +1,8 @@
 # Vim Configuration For Windows Users
 > ## Usefull informations
 > #### File location
-> Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
+> - Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
+> - Only ```workspacer.config.csx``` file has a different path, which is ```C:\Users\[user_name]\.workspacer\workspacer.config.csx```.
 > #### Access files in windows explorer
 > If using WSL, files are located in the following path (which uses the space of your main disk): ```\\wsl.localhost\[distribution_name]\home\[user_name]```. In my case is the following: ```\\wsl.localhost\Ubuntu\home\antonioc```.
 > #### Copying files in windows clipboard (from vim to windows clip)
@@ -50,9 +51,9 @@
 > - Get the updated version of your repository (i.g. if you have made changes on github browser): ```git pull```.
 > #### Install workspacer
 > - Link: https://workspacer.org/.
-> - 
+> - Open the windows drop-down menu and right-click the workspacer icon, then press ```create example workspacer.config.csx```.
 
-> ## How to install plugins in neovim
+> ## How to install neovim plugins
 > - type here
 
 > ## Usefull links
