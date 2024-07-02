@@ -2,7 +2,7 @@
 > ## Usefull informations
 > #### File location
 > - Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
-> - Only ```workspacer.config.csx``` file has a different path, which is ```C:\Users\[user_name]\.workspacer\workspacer.config.csx```.
+> - Only ```.glaze-wm\config.yaml``` file has a different path, which is ```C:\Users\[user_name]\.glaze-wm\config.yaml```.
 > #### Access files in windows explorer
 > If using WSL, files are located in the following path (which uses the space of your main disk): ```\\wsl.localhost\[distribution_name]\home\[user_name]```. In my case is the following: ```\\wsl.localhost\Ubuntu\home\antonioc```.
 > #### Copying files in windows clipboard (from vim to windows clip)
@@ -49,9 +49,9 @@
 > - To check file status: ```git status```.
 > - To commit changes: ```git add .``` and ```git commit -m "[note]"``` and ```git push```.
 > - Get the updated version of your repository (i.g. if you have made changes on github browser): ```git pull```.
-> #### Install workspacer
-> - Link: https://workspacer.org/.
-> - Open the windows drop-down menu and right-click the workspacer icon, then press ```create example workspacer.config.csx```.
+> #### Install GlazeWM
+> - Link: https://github.com/glzr-io/glazewm?tab=readme-ov-file.
+> - Go to the following path: ```%LOCALAPPDATA%\Microsoft\Winget\Packages\```, find the directory of GlazeWM and open it. Press 'Yes' when it asks 'Create a config file?'. Config file location: ```C:\Users\[user_name]\.glaze-wm\config.yaml```
 
 > ## How to install neovim plugins
 > - type here
