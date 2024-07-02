@@ -19,12 +19,19 @@
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, fish, tree, exa, vim and neovim
 > - On windows powershell: ```wsl --install```.
-> - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim && sudo apt install neovim```.
+> - Once wsl is installed, proceed by submitting these commands: ```sudo apt update && sudo apt upgrade && sudo apt install vim```.
 > - In order to install fish: ```sudo apt install fish```. Once installed, you can type ```fish``` for using it only once.
 > - In order to set fish to default: ```sudo chsh -s /bin/fish [user_name]```.
 > - In order to see shells available: ```vi etc/shells```.
 > - Install tree: ```sudo apt install tree```.
 > - Install exa with git support: ```sudo apt install cargo``` and ```cargo install --vers 0.9.0 exa```. Finally: ```set -Ux fish_user_paths /home/[user_name]/.cargo/bin $fish_user_paths```. Verify that cargo has been added to $PATH: ```echo $PATH```.
+> #### Install NeoVim
+> - Go to https://github.com/neovim/neovim-releases/releases and download ```nvim.appimage```.
+> - Type ```chmod u+x ./nvim.appimage```.
+> - Move it to a folder that's indexed in your $PATH env var so your computer knows what you mean when you type ```nvim```. You can check the folders in your current path by typing ```echo $PATH``` which will show you something like this: ```/usr/local/bin:/usr/bin```. Notice there are 2 folders here in this case separated by a colon (:). You will likely have more than two. ```/usr/local/bin``` is a common place to stick it. To move it there you'll need to use sudo: ```sudo mv nvim.appimage /usr/local/bin/nvim```.
+> - Install fuse: ```sudo apt install fuse```.
+> - Now you can type ```nvim``` and it'll open.
+> - Important link: https://www.reddit.com/r/neovim/comments/f9661m/how_do_i_install_the_latest_version_of_neovim_on/.
 > #### Install nerdfonts
 > - Go to https://github.com/ryanoasis/nerd-fonts, select a font and download it.
 > - Create the fonts directory: ```mkdir -p ~/.local/share/fonts```.
@@ -52,13 +59,14 @@
 > #### Install GlazeWM
 > - Link: https://github.com/glzr-io/glazewm?tab=readme-ov-file.
 > - Go to the following path: ```%LOCALAPPDATA%\Microsoft\Winget\Packages\```, find the directory of GlazeWM and open it. Press 'Yes' when it asks 'Create a config file?'. Config file location: ```C:\Users\[user_name]\.glaze-wm\config.yaml```
-> #### Install lazy.nvim
-> - Link: https://lazy.folke.io/. Follow the instructions in the link.
 > #### Install vim-gtk
 > Type on the terminal sudo apt instal ```vim-gtk```.
 
 > ## How to install neovim plugins
-> - type here
+> #### Install lazy.nvim
+> - Link: https://lazy.folke.io/installation. From here copy the content of the first 2 files.
+> - Paste ```require("config.lazy")``` on the init.lua file.
+> - WRITEHEREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
