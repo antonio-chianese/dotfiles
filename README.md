@@ -5,10 +5,13 @@
 > - Only ```.glaze-wm\config.yaml``` file has a different path, which is ```C:\Users\[user_name]\.glaze-wm\config.yaml```.
 > #### Access files in windows explorer
 > If using WSL, files are located in the following path (which uses the space of your main disk): ```\\wsl.localhost\[distribution_name]\home\[user_name]```. In my case is the following: ```\\wsl.localhost\Ubuntu\home\antonioc```.
+> #### VIM and NEOVIM
 > #### Copying files in windows clipboard (from vim to windows clip)
 > Use the following command in the linux terminal: ```cat [file_name] | clip.exe```.
-> #### Pasting files in vim (from windows clip to vim)
-> Use the following key-binding: ```Ctrl + Shift + V```.
+> #### Pasting and copying files in vim (from windows clip to vim)
+> - Use the following key-binding: ```Ctrl + Shift + V```.
+> - Use the following key-binding: ```"+p```.
+> - The same can be done for yanking (in vim it's not necessary thanks to vim-gtk).
 > #### How to add some text in visual block mode
 > - Select lines in Visual block mode.
 > - Press ```:``` and then type ```norm I[your_text]```.
@@ -19,6 +22,13 @@
 > #### nvim-tree.lua
 > - Create a new file: ```a + [file_name]```.
 > - Enter a file/Open a directory: ```Enter```.
+> #### y-t-c
+> - ```<leader>y``` -> ```"+y```
+> - ```<leader>yy``` -> ```"+yy```
+> - ```<leader>Y``` -> ```"+yg_```
+> #### p-f-c
+> - ```<leader>p``` -> ```"+p```
+> - ```<leader>P``` -> ```"+P```
 
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, fish, tree, exa, vim and neovim
