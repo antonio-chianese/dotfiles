@@ -13,8 +13,12 @@
 > - Select lines in Visual block mode.
 > - Press ```:``` and then type ```norm I[your_text]```.
 
-> ## Fish key-bindings
-> - prevd/nextd: ```Alt + Left/Right Arrow```.
+> ## Key-bindings memory
+> #### fish
+> - prevd/nextd (previous/next directory): ```Alt + Left/Right Arrow```.
+> #### nvim-tree.lua
+> - Create a new file: ```a + [file_name]```.
+> - Enter a file/Open a directory: ```Enter```.
 
 > ## How to set up wsl for vim and neovim
 > #### Download and set up wsl, fish, tree, exa, vim and neovim
@@ -71,7 +75,7 @@
 > - From lazy.nvim website: "You can then create your plugin specs in ```~/.config/nvim/lua/plugins/```. Each file should return a table with the plugins you want to install".
 > - See my tree structure.
 > - Once plugins specs are in the plugins folder and you have finished configuring them, you can type ```:Lazy``` in neovim and then ```Maiusc + I``` to install new plugins.
-> - To load plugins without exiting neovim, you can just type: ```:Lazy load [plugin_file_name].lua```
+> - To load plugins without exiting neovim, you can just type: ```:Lazy load [plugin_file_name].lua```.
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
