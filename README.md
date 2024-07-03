@@ -22,6 +22,8 @@
 > #### nvim-tree.lua
 > - Create a new file: ```a + [file_name]```.
 > - Enter a file/Open a directory: ```Enter```.
+> - Open another file: ```Space + S + V```.
+> - Switch from a window to another: ```Ctrl + H/L```.
 > #### y-t-c
 > - ```<leader>y``` -> ```"+y```
 > - ```<leader>yy``` -> ```"+yy```
