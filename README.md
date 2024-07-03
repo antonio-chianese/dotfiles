@@ -59,6 +59,8 @@
 > #### Install GlazeWM
 > - Link: https://github.com/glzr-io/glazewm?tab=readme-ov-file.
 > - Go to the following path: ```%LOCALAPPDATA%\Microsoft\Winget\Packages\```, find the directory of GlazeWM and open it. Press 'Yes' when it asks 'Create a config file?'. Config file location: ```C:\Users\[user_name]\.glaze-wm\config.yaml```
+> - Set GlazeWM to appear when you search for it in windows search: go to ```%LOCALAPPDATA%\Microsoft\Winget\Packages\```, find the directory of GlazeWM and right click it. Then create a shortcut named ```Glaze WM``` and paste it to ```C:\ProgramData\Microsoft\Windows\Start Menu\Programs```
+> - Set GlazeWM to open when windows starts: go to ```C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup``` and copy the GlazeWM shortcut file you first created.
 > #### Install vim-gtk
 > Type on the terminal ```sudo apt instal vim-gtk```.
 
