@@ -91,6 +91,7 @@
 > - To load plugins without exiting neovim, you can just type: ```:Lazy load [plugin_file_name].lua```.
 > - Use file ```nvim/lua/init.lua``` in order to create key-bindings.
 > - Once done, type ```:luafile ~/.config/nvim/init.lua``` to make edits effective.
+> - Some plugins may need ripgrep: ```sudo apt install ripgrep```.
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
