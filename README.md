@@ -97,6 +97,8 @@
 > #### Install lazygit
 > - Install brew by following this guide: ```https://cnu.hashnode.dev/set-up-homebrew-on-linux-with-fish-shell```. Once done, type ```brew install gcc```.
 > - Type: ```brew install lazygit```.
+> #### Install tmux
+> - Type: ```brew install tmux```.
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
