@@ -99,6 +99,7 @@
 > - Type: ```brew install lazygit```.
 > #### Install tmux
 > - Type: ```brew install tmux```.
+> - To reload and install plugins: ```Ctrl + A, Shift + I```.
 
 > ## Usefull links
 > - https://www.youtube.com/watch?v=57x4ZzzCr2Y&t=938s (guide how to set up vim)
