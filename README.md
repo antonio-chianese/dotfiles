@@ -52,6 +52,11 @@
 > - Go to https://github.com/ryanoasis/nerd-fonts, select a font and download it.
 > - Create the fonts directory: ```mkdir -p ~/.local/share/fonts```.
 > - Curl the font in the fonts directory: ```curl -fLo "[font_name].ttf/otf" [github_font_link]```.
+> - Example:
+> - ```curl -fLo "Meslo LG Bold Italic Nerd Font.ttf" https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/S/Bold-Italic/MesloLGSNerdFont-BoldItalic.ttf```.
+> - ```curl -fLo "Meslo LG Bold Nerd Font.ttf" https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/S/Bold/MesloLGSNerdFont-Bold.ttf```.
+> - ```curl -fLo "Meslo LG Italic Nerd Font.ttf" https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/S/Italic/MesloLGSNerdFont-Italic.ttf```.
+> - ```curl -fLo "Meslo LG Regular Nerd Font.ttf" https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/S/Regular/MesloLGSNerdFont-Regular.ttf```.
 > #### Install alacritty
 > - Install alacritty from the following link: https://github.com/alacritty/alacritty/releases.
 > - Create the ```alacritty.yml``` file in the following path: ```%APPDATA%\alacritty\alacritty.yml```.
