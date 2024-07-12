@@ -87,6 +87,9 @@
 > - Type on the terminal ```sudo apt install vim-gtk```.
 > #### Install starship
 > - Type: ```brew install starship``` and then add this to your .fishrc file: ```starship init fish | source```.
+> #### Install tide
+> - Install fisher by typing: ```curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher```.
+> - Type: ```fisher install IlanCosman/tide@v6```.
 
 > ## How to install neovim plugins
 > #### Install lazy.nvim
