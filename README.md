@@ -52,6 +52,7 @@
 > - Go to https://github.com/ryanoasis/nerd-fonts, select a font and download it.
 > - Create the fonts directory: ```mkdir -p ~/.local/share/fonts```.
 > - Curl the font in the fonts directory: ```curl -fLo "[font_name].ttf/otf" [github_font_link]```.
+
 > #### Install alacritty
 > - Install alacritty from the following link: https://github.com/alacritty/alacritty/releases.
 > - Create the ```alacritty.yml``` file in the following path: ```%APPDATA%\alacritty\alacritty.yml```.
@@ -80,6 +81,8 @@
 > #### Install vim-gtk
 > - It's usefull in order to copy from Vim clipboard to windows clipboard.
 > - Type on the terminal ```sudo apt install vim-gtk```.
+> #### Install starship
+> - Type: ```brew install starship``` and then add this to your .fishrc file: ```starship init fish | source```.
 
 > ## How to install neovim plugins
 > #### Install lazy.nvim
