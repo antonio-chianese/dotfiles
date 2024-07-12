@@ -52,7 +52,6 @@
 > - Go to https://github.com/ryanoasis/nerd-fonts, select a font and download it.
 > - Create the fonts directory: ```mkdir -p ~/.local/share/fonts```.
 > - Curl the font in the fonts directory: ```curl -fLo "[font_name].ttf/otf" [github_font_link]```.
-
 > #### Install alacritty
 > - Install alacritty from the following link: https://github.com/alacritty/alacritty/releases.
 > - Create the ```alacritty.yml``` file in the following path: ```%APPDATA%\alacritty\alacritty.yml```.
