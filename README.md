@@ -89,7 +89,7 @@
 > - Type: ```brew install starship``` and then add this to your .fishrc file: ```starship init fish | source```.
 > #### Install tide
 > - Install fisher by typing: ```curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher```.
-> - Type: ```fisher install IlanCosman/tide@v6```.
+> - Type: ```fisher install IlanCosman/tide@v6``` and then ```tide configure```.
 
 > ## How to install neovim plugins
 > #### Install lazy.nvim
