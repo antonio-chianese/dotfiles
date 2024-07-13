@@ -62,8 +62,8 @@
 > - Create the ```alacritty.yml``` file in the following path: ```%APPDATA%\alacritty\alacritty.yml```.
 > - Once you are happy with the configuration just execute ```alacritty migrate``` in the windows powershell.
 > - For nerdfonts, install them in windows.
-> #### Install tabby
-> - Link: https://tabby.sh/.
+> #### Install wezterm
+> - Type on powershell: ```winget install wez.wezterm```.
 > #### Create aliases
 > - Modify the fish config file: ```vi ~/.config/fish/config.fish```.
 > - Execute the fish config file to make modifications effective: ```source ~/.config/fish/config.fish```.
