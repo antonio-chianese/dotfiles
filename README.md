@@ -2,7 +2,8 @@
 > ## Usefull informations
 > #### File location
 > - Files are ```~/[file/directory_name]```, so it means that those are in the following path: ```/home/[user_name]/[file/directory_name]```. So, files and directories you find here are located under your user directory.
-> - Only ```.glaze-wm\config.yaml``` file has a different path, which is ```C:\Users\[user_name]\.glaze-wm\config.yaml```.
+> - ```.glaze-wm\config.yaml``` file has a different path, which is ```C:\Users\[user_name]\.glaze-wm\config.yaml```.
+> - ```.wezterm.lua```file has a different path, which is ```C:\Users\[user_name]\.wezterm.lua```.
 > #### Access files in windows explorer
 > If using WSL, files are located in the following path (which uses the space of your main disk): ```\\wsl.localhost\[distribution_name]\home\[user_name]```. In my case is the following: ```\\wsl.localhost\Ubuntu\home\antonioc```.
 > #### VIM and NEOVIM
