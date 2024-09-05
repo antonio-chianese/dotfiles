@@ -1,0 +1,7 @@
+2024/09/05-12:06:58.706 b8f Reusing MANIFEST /home/antonioc/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/05-12:06:58.706 b8f Recovering log #3
+2024/09/05-12:06:58.707 b8f Reusing old log /home/antonioc/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/09/05-12:08:18.971 b90 Level-0 table #5: started
+2024/09/05-12:08:18.978 b90 Level-0 table #5: 614676 bytes OK
+2024/09/05-12:08:18.980 b90 Delete type=0 #3
+2024/09/05-12:08:18.980 b90 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
