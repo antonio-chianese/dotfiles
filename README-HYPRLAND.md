@@ -23,7 +23,9 @@ cd .config/fish/
 nvim config.fish (copiare contenuto del file in dotfiles/linux/.config/fish/config.fish)
 source config.fish
 sudo chsh -s /bin/fish [user_name]```
+
 ----- logout and re-enter to make changes effective
+
 ```
 feh --bg-fill /home/antonioc/backgrounds/bg-blurred-darker.png 
 
