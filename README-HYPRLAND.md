@@ -45,4 +45,7 @@ nvim [terminal-conf-file]
 sudo pacman -S wl-clipboard
 sudo pacman -S zathura
 xdg-mime default org.pwmt.zathura.desktop application/pdf
+----------------------
+sudo pacman -S python python-pip
+sudo pacman -S python-pynvim
 ```
