@@ -32,5 +32,9 @@ touch hyprpaper.conf
 ```
 ----- copy hyprpaper.conf content
 ```
+nvim .config/hypr/hyprland.conf
+```
+----- add ```exec-once = hyprpaper```
+```
 
 ```
