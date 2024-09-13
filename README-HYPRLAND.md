@@ -43,4 +43,6 @@ nvim [terminal-conf-file]
 ----- edit font
 ```
 sudo pacman -S wl-clipboard
+sudo pacman -S zathura
+xdg-mime default org.pwmt.zathura.desktop application/pdf
 ```
