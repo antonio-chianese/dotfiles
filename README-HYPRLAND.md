@@ -1,9 +1,9 @@
-```sudo pacman -S exa```
-```mv .config/ .config.bak/```
-```git clone https://github.com/antonio-chianese/dotfiles.git```
-```rm -r .config/```
-```mv dotfiles/linux/.config .```
-```mv .config/fish .config.bak/
+```sudo pacman -S exa
+mv .config/ .config.bak/
+git clone https://github.com/antonio-chianese/dotfiles.git
+rm -r .config/
+mv dotfiles/linux/.config .
+mv .config/fish .config.bak/
 rm -r .config.bak/kitty/
 mv .config/kitty .config.bak/
 sudo pacman -S fish
@@ -19,3 +19,8 @@ mv .config/fish/ .config.bak/
 rm -r .config/
 mv .config.bak/ .config/
 sudo pacman -S neovim
+cd .config/fish/
+nvim config.fish (copiare contenuto del file in dotfiles/linux/.config/fish/config.fish)
+source config.fish
+sudo chsh -s /bin/fish [user_name]
+----- logout and re-enter to make changes effective
