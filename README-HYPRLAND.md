@@ -35,6 +35,12 @@ touch hyprpaper.conf
 nvim .config/hypr/hyprland.conf
 ```
 ----- add ```exec-once = hyprpaper```
+----- download fonts from https://www.nerdfonts.com/font-downloads
 ```
-
+mv [downloaded-font-path] .local/share/fonts/
+nvim [terminal-conf-file]
+```
+----- edit font
+```
+sudo pacman -S wl-clipboard
 ```
