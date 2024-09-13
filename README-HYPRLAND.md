@@ -27,6 +27,10 @@ sudo chsh -s /bin/fish [user_name]
 ```
 ----- logout and re-enter to make changes effective
 ```
-feh --bg-fill /home/antonioc/backgrounds/bg-blurred-darker.png 
+sudo pacman -S hyprpaper
+touch hyprpaper.conf
+```
+----- copy hyprpaper.conf content
+```
 
 ```
