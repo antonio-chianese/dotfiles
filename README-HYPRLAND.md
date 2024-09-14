@@ -49,4 +49,5 @@ xdg-mime default org.pwmt.zathura.desktop application/pdf
 sudo pacman -S python python-pip
 sudo pacman -S python-pynvim
 sudo pacman -S texlive
+sudo pacman -S zathura-pdf-poppler
 ```
