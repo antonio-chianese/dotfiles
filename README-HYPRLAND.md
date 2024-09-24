@@ -51,3 +51,5 @@ sudo pacman -S python-pynvim
 sudo pacman -S texlive
 sudo pacman -S zathura-pdf-poppler
 ```
+----- inkscape
+https://bbs.archlinux.org/viewtopic.php?id=251011
