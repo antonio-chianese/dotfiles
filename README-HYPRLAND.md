@@ -51,11 +51,19 @@ sudo pacman -S python-pynvim
 sudo pacman -S texlive
 sudo pacman -S zathura-pdf-poppler
 ```
------ inkscape:
+----- inkscape
+```
 https://bbs.archlinux.org/viewtopic.php?id=251011 (sudo pacman -Syyu)
+```
 
------ pip3:
+----- pip3
+```
 sudo pacman -S python-pipx
+```
 
------ inkscape figures:
+----- inkscape figures
+```
 pipx install inkscape-figures
+pipx ensurepath
+(open a new terminal)
+```
