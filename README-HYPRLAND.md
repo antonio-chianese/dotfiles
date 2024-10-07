@@ -51,7 +51,7 @@ sudo pacman -S python-pynvim
 sudo pacman -S texlive
 sudo pacman -S zathura-pdf-poppler
 ```
------ inkscape
+----- inkscape and mirrors error
 ```
 https://bbs.archlinux.org/viewtopic.php?id=251011 (sudo pacman -Syyu)
 ```
