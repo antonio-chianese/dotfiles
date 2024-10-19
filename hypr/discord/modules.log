@@ -1,0 +1,43 @@
+2024-09-10T15:05:40.700Z [Modules] Modules initializing
+2024-09-10T15:05:40.701Z [Modules] Distribution: remote
+2024-09-10T15:05:40.701Z [Modules] Host updates: enabled
+2024-09-10T15:05:40.701Z [Modules] Module updates: enabled
+2024-09-10T15:05:40.701Z [Modules] Module install path: /home/antonioc/.config/discord/0.0.67/modules
+2024-09-10T15:05:40.701Z [Modules] Module installed file path: /home/antonioc/.config/discord/0.0.67/modules/installed.json
+2024-09-10T15:05:40.701Z [Modules] Module download path: /home/antonioc/.config/discord/0.0.67/modules/pending
+2024-09-10T15:05:40.954Z [Modules] Bootstrapping...
+2024-09-10T15:05:40.955Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-09-10T15:05:40.957Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-09-10T15:05:40.957Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-09-10T15:05:40.959Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-09-10T15:05:40.982Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-09-10T15:05:40.985Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-09-10T15:05:41.008Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-09-10T15:05:41.012Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-09-10T15:05:41.032Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-09-10T15:05:41.034Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-09-10T15:05:41.058Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-09-10T15:05:41.061Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-09-10T15:05:41.080Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-09-10T15:05:41.080Z [Modules] Checking for host updates.
+2024-09-10T15:05:41.406Z [Modules] Host update is available. Manual update required!
+2024-09-10T15:06:05.028Z [Modules] Modules initializing
+2024-09-10T15:06:05.028Z [Modules] Distribution: remote
+2024-09-10T15:06:05.028Z [Modules] Host updates: enabled
+2024-09-10T15:06:05.028Z [Modules] Module updates: enabled
+2024-09-10T15:06:05.028Z [Modules] Module install path: /home/antonioc/.config/discord/0.0.67/modules
+2024-09-10T15:06:05.028Z [Modules] Module installed file path: /home/antonioc/.config/discord/0.0.67/modules/installed.json
+2024-09-10T15:06:05.028Z [Modules] Module download path: /home/antonioc/.config/discord/0.0.67/modules/pending
+2024-09-10T15:06:05.221Z [Modules] No updates to install
+2024-09-10T15:06:05.221Z [Modules] Checking for host updates.
+2024-09-10T15:06:05.527Z [Modules] Host update is available. Manual update required!
+2024-09-10T15:06:50.119Z [Modules] Modules initializing
+2024-09-10T15:06:50.120Z [Modules] Distribution: remote
+2024-09-10T15:06:50.120Z [Modules] Host updates: enabled
+2024-09-10T15:06:50.120Z [Modules] Module updates: enabled
+2024-09-10T15:06:50.120Z [Modules] Module install path: /home/antonioc/.config/discord/0.0.67/modules
+2024-09-10T15:06:50.120Z [Modules] Module installed file path: /home/antonioc/.config/discord/0.0.67/modules/installed.json
+2024-09-10T15:06:50.120Z [Modules] Module download path: /home/antonioc/.config/discord/0.0.67/modules/pending
+2024-09-10T15:06:50.333Z [Modules] No updates to install
+2024-09-10T15:06:50.334Z [Modules] Checking for host updates.
+2024-09-10T15:06:50.585Z [Modules] Host update is available. Manual update required!

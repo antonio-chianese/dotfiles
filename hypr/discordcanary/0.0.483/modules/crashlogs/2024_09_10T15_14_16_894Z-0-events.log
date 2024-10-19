@@ -1,0 +1,14 @@
+2024-09-10T15:14:16.896Z 0: 
+
+----------------------------------------------
+2024-09-10T15:14:16.899Z 1: Discord starting: {"releaseChannel":"canary","version":"0.0.483"}, modulepath: /home/antonioc/.config/discordcanary/0.0.483/modules
+2024-09-10T15:14:16.900Z 2: ✅ webContents.created web1 ""
+2024-09-10T15:14:16.901Z 3: ✅ window.created win1 "discord"
+2024-09-10T15:14:17.174Z 4: ✅ webContents.did-finish-load web1
+2024-09-10T15:14:22.535Z 5: ✅ webContents.created web2 ""
+2024-09-10T15:14:22.541Z 6: ✅ window.created win2 "Discord"
+2024-09-10T15:14:23.632Z 7: ✅ webContents.did-finish-load web2
+2024-09-10T15:14:23.731Z 8: window.close win1
+2024-09-10T15:14:23.736Z 9: webContents.destroyed web1
+2024-09-10T15:14:23.737Z 10: window.closed win1
+2024-09-10T16:38:31.854Z 11: window.close win2
