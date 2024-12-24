@@ -1,8 +1,0 @@
-2024/09/10-17:14:16.867 11af Creating DB /home/antonioc/.config/discordcanary/Local Storage/leveldb since it was missing.
-2024/09/10-17:14:16.872 11af Reusing MANIFEST /home/antonioc/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
-2024/09/10-17:18:31.866 11b0 Level-0 table #5: started
-2024/09/10-17:18:31.888 11b0 Level-0 table #5: 3232371 bytes OK
-2024/09/10-17:18:31.889 11b0 Delete type=0 #3
-2024/09/10-18:34:22.641 11b0 Level-0 table #7: started
-2024/09/10-18:34:22.642 11b0 Level-0 table #7: 19300 bytes OK
-2024/09/10-18:34:22.644 11b0 Delete type=0 #4

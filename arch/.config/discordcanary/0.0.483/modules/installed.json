@@ -1,0 +1,43 @@
+{
+  "discord_desktop_core": {
+    "installedVersion": 11
+  },
+  "discord_erlpack": {
+    "installedVersion": 10
+  },
+  "discord_spellcheck": {
+    "installedVersion": 9,
+    "updateVersion": 10,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_spellcheck-10.zip"
+  },
+  "discord_utils": {
+    "installedVersion": 9,
+    "updateVersion": 10,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_utils-10.zip"
+  },
+  "discord_voice": {
+    "installedVersion": 16,
+    "updateVersion": 17,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_voice-17.zip"
+  },
+  "discord_zstd": {
+    "installedVersion": 9,
+    "updateVersion": 10,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_zstd-10.zip"
+  },
+  "discord_krisp": {
+    "installedVersion": 9,
+    "updateVersion": 10,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_krisp-10.zip"
+  },
+  "discord_game_utils": {
+    "installedVersion": 9,
+    "updateVersion": 10,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_game_utils-10.zip"
+  },
+  "discord_rpc": {
+    "installedVersion": 9,
+    "updateVersion": 10,
+    "updateZipfile": "/home/antonioc/.config/discordcanary/0.0.483/modules/pending/discord_rpc-10.zip"
+  }
+}
