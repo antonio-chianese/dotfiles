@@ -28,10 +28,10 @@ keymap.set("n", "<leader>tp", "<cmd>tabp<CR>", { desc = "Go to previous tab" })
 keymap.set("n", "<leader>tf", "<cmd>tabnew %<CR>", { desc = "Open current buffer in new tab" })
 
 -- Tab key
-keymap.set("n", "<Tab>", ">>", { desc = "Indent code" })
-keymap.set("n", "<S-Tab>", "<<", { desc = "Indent code" })
-keymap.set("v", "<Tab>", ">gv", { desc = "Indent code" })
-keymap.set("v", "<S-Tab>", "<gv", { desc = "Indent code" })
+-- keymap.set("n", "<Tab>", ">>", { desc = "Indent code" })
+-- keymap.set("n", "<S-Tab>", "<<", { desc = "Indent code" })
+-- keymap.set("v", "<Tab>", ">gv", { desc = "Indent code" })
+-- keymap.set("v", "<S-Tab>", "<gv", { desc = "Indent code" })
 
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
@@ -65,6 +65,3 @@ keymap.set("n", "<C-S-h>", "<C-w><")
 keymap.set("n", "<C-S-l>", "<C-w>>")
 keymap.set("n", "<C-S-k>", "<C-w>+")
 keymap.set("n", "<C-S-j>", "<C-w>-")
-
--- Format code using LSP
--- keymap.set("n", "<leader>fmd", vim.lsp.buf.format)

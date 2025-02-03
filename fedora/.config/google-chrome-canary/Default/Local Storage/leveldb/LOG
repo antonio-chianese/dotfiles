@@ -1,3 +1,6 @@
-2025/02/02-21:50:32.625 4 Reusing MANIFEST /home/antonioc/.config/google-chrome-canary/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/02-21:50:32.628 4 Recovering log #219
-2025/02/02-21:50:32.629 4 Reusing old log /home/antonioc/.config/google-chrome-canary/Default/Local Storage/leveldb/000219.log 
+2025/02/03-15:39:37.003 4 Reusing MANIFEST /home/antonioc/.config/google-chrome-canary/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/03-15:39:37.006 4 Recovering log #219
+2025/02/03-15:39:37.007 4 Reusing old log /home/antonioc/.config/google-chrome-canary/Default/Local Storage/leveldb/000219.log 
+2025/02/03-15:41:41.549 4 Level-0 table #224: started
+2025/02/03-15:41:41.551 4 Level-0 table #224: 77037 bytes OK
+2025/02/03-15:41:41.553 4 Delete type=0 #219

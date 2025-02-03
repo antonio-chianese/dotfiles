@@ -1,6 +1,0 @@
-2025/02/02-13:24:30.378 9d3 Creating DB /home/antonioc/.config/google-chrome-canary/Default/IndexedDB/https_adambrodziak.medium.com_0.indexeddb.leveldb since it was missing.
-2025/02/02-13:24:30.380 9d3 Reusing MANIFEST /home/antonioc/.config/google-chrome-canary/Default/IndexedDB/https_adambrodziak.medium.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-13:26:16.012 9d4 Level-0 table #5: started
-2025/02/02-13:26:16.014 9d4 Level-0 table #5: 29198 bytes OK
-2025/02/02-13:26:16.015 9d4 Delete type=0 #3
-2025/02/02-13:26:16.015 9d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

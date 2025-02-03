@@ -1,6 +1,0 @@
-2025/02/02-15:28:17.011 5832 Creating DB /home/antonioc/.config/google-chrome-canary/Default/IndexedDB/https_castel.dev_0.indexeddb.leveldb since it was missing.
-2025/02/02-15:28:17.022 5832 Reusing MANIFEST /home/antonioc/.config/google-chrome-canary/Default/IndexedDB/https_castel.dev_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-15:28:51.668 5833 Level-0 table #5: started
-2025/02/02-15:28:51.669 5833 Level-0 table #5: 1238 bytes OK
-2025/02/02-15:28:51.670 5833 Delete type=0 #3
-2025/02/02-15:28:51.670 5833 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
