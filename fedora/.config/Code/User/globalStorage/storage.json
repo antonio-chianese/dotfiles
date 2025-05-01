@@ -1,0 +1,71 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f4fd2420a750f6136ab5475c23d973735166992b07578f217bdc670ae0753092",
+    "telemetry.devDeviceId": "ea532129-9de6-408e-83d5-b44f71daa7f4",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1744726167556"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1744726167556": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim",
+            "backupPath": "/home/antonioc/.config/Code/Backups/385dd9c68051e2f17f6a2eee0e5cba21",
+            "uiState": {
+                "mode": 1,
+                "x": 20,
+                "y": 52,
+                "width": 1880,
+                "height": 1008
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 233,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

@@ -1,0 +1,42 @@
+2025-04-15 16:45:59.523 [info] Started local extension host with pid 79922.
+2025-04-15 16:46:00.218 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-15 16:46:01.767 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-15 16:46:02.248 [info] [perf] Render performance baseline is 17ms
+2025-04-15 16:46:07.062 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py' (Error: File Modified Since) file:///home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py
+2025-04-15 16:46:09.395 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-15 16:46:10.484 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-15 16:46:11.886 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-04-15 16:46:11.886 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-04-15 16:46:11.896 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-04-15 16:46:11.896 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-04-15 16:46:12.386 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.387 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.398 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.414 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.414 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.415 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.415 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.415 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.415 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.432 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.485 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.485 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.726 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.727 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.727 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.727 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.727 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.728 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.728 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.728 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:12.728 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:13.143 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:13.143 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-15 16:46:38.010 [info] Started local extension host with pid 81342.
+2025-04-15 16:46:38.403 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-15 16:46:39.683 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-15 16:46:40.715 [info] [perf] Render performance baseline is 16ms
+2025-04-15 16:46:42.803 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-04-15 16:46:42.803 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-04-15 16:46:42.814 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-04-15 16:46:42.814 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

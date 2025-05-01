@@ -1,0 +1,5 @@
+2025-04-15 16:09:40.255 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-15 16:09:40.255 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-15 16:09:40.281 [info] VS Code was launched from an activated environment: 'video', selecting it as the interpreter for workspace.
+2025-04-15 16:09:40.559 [info] > ~/virtualenvs/video/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:09:42.549 [info] Starting Pylance language server.

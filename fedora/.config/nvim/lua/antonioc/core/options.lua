@@ -72,8 +72,8 @@ opt.backspace = "indent,eol,start" -- Allow backspace on indent, end of line or 
 -----------------------------------------------------------
 
 -- opt.spelling = "en_us"
--- opt.spelllang = "it"
--- opt.spell = true
+opt.spelllang = "it"
+opt.spell = true
 
 -- -- Create a new Inkscape figure
 -- vim.api.nvim_set_keymap('i', '<C-f>', '<Esc>:silent exec \'.!inkscape-figures create "\'.getline(\'.\').\'" "\'.b:vimtex.root.\'/figures/"\'<CR><CR>:w<CR>', { noremap = true, silent = true })

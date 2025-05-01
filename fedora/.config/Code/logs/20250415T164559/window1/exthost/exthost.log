@@ -1,0 +1,52 @@
+2025-04-15 16:45:59.912 [info] Extension host with pid 79922 started
+2025-04-15 16:46:00.003 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-15 16:46:00.024 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-15 16:46:00.038 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-04-15 16:46:00.273 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-04-15 16:46:00.595 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-15 16:46:00.599 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-15 16:46:00.634 [info] Eager extensions activated
+2025-04-15 16:46:00.636 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:00.638 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:00.650 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:01.766 [error] Error: ENOENT: no such file or directory, open '/home/antonioc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-04-15 16:46:09.312 [error] Error: Channel has been closed
+	at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:2431)
+	at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:2570)
+	at _0x57de3e.<computed>.<computed> [as appendLine] (/home/antonioc/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist/extension.bundle.js:1:140622)
+	at P.logOutputMessage (/home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/out/client/extension.js:2:2020886)
+	at P.info (/home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/out/client/extension.js:2:2020619)
+	at ChildProcess.<anonymous> (/home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/out/client/extension.js:2:2238962)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-15 16:46:09.415 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-15 16:46:09.496 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:09.813 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:10.174 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-15 16:46:10.483 [error] Error: Starting server failed
+    at P.$start (/home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/out/client/extension.js:2:2032758)
+    at P.sendNotification (/home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/out/client/extension.js:2:2018007)
+2025-04-15 16:46:11.553 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-04-15 16:46:37.621 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-15 16:46:37.638 [error] Error: ENOENT: no such file or directory, open '/home/antonioc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-04-15 16:46:37.727 [info] Extension host with pid 79922 exiting with code 0
+2025-04-15 16:46:38.396 [info] Extension host with pid 81342 started
+2025-04-15 16:46:38.396 [info] Skipping acquiring lock for /home/antonioc/.config/Code/User/workspaceStorage/3724c1a43720f0cb7a482bfb9c4bd480.
+2025-04-15 16:46:38.484 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-15 16:46:38.519 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-15 16:46:38.529 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-15 16:46:38.554 [info] Eager extensions activated
+2025-04-15 16:46:38.562 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:38.563 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:38.576 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:39.639 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-15 16:46:39.682 [error] Error: ENOENT: no such file or directory, open '/home/antonioc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-04-15 16:46:39.705 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:40.009 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-15 16:46:40.754 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-04-15 16:46:40.871 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-15 16:46:41.030 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-15 16:46:41.063 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-04-15 16:47:05.904 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-04-15 16:52:26.362 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-15 16:52:26.394 [info] Extension host with pid 81342 exiting with code 0

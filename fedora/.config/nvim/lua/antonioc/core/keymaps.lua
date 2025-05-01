@@ -65,3 +65,9 @@ keymap.set("n", "<C-S-h>", "<C-w><")
 keymap.set("n", "<C-S-l>", "<C-w>>")
 keymap.set("n", "<C-S-k>", "<C-w>+")
 keymap.set("n", "<C-S-j>", "<C-w>-")
+
+-- Inkscape-figures manager
+-- keymap.set("i", "C-f", "<Esc>: silent exec '.!inkscape-figures create "'.getline('.').'" "'.b:vimtex.root.'/figures/"'<CR><CR>:w<CR>")
+keymap.set("i", "<C-f>", "<Esc>:silent exec '.!inkscape-figures create \"' . getline('.') . '\" \"' . b:vimtex.root . '/figures/\"'<CR><CR>:w<CR>")
+-- keymap.set("n", "C-f", ": silent exec '!inkscape-figures edit "'.b:vimtex.root.'/figures/" > /dev/null 2>&1 &'<CR><CR>:redraw!<CR>")
+keymap.set("n", "<C-f>", ":silent exec '!inkscape-figures edit \"' . b:vimtex.root . '/figures/\" > /dev/null 2>&1 &'<CR><CR>:redraw!<CR>")

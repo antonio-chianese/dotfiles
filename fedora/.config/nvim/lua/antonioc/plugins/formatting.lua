@@ -29,6 +29,12 @@ return {
 			-- },
 		})
 
+        conform.formatters.latex = {
+            args = {
+                "-l", "/home/antonioc/.indentconfig.yaml"
+            }
+        }
+
 		vim.keymap.set({ "n", "v" }, "<leader>fmd", function()
 			conform.format({
 				lsp_fallback = true,

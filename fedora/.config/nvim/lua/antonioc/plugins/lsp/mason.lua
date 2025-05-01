@@ -58,7 +58,7 @@ return {
                 "black",
                 "pylint",
                 "eslint_d",
-                "latexindent",
+                -- "latexindent",
             }
         })
     end,

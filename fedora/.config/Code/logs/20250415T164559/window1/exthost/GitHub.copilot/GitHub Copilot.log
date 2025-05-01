@@ -1,0 +1,87 @@
+2025-04-15 16:46:11.279 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Wae.removeExpiredCertificates (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:77:32)
+    at Wae.getAllRootCAs (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:68:38)
+    at Bz.createSecureContext (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificates.ts:47:23)
+    at Bz.applyToRequestOptions (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificates.ts:65:23)
+    at A2.fetch (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/helix.ts:91:9)
+    at OT.fetchExperiments (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/experiments/fetchExperiments.ts:91:20) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-04-15 16:46:11.279 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Wae.removeExpiredCertificates (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:77:32)
+    at Wae.getAllRootCAs (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:68:38)
+    at Bz.createSecureContext (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificates.ts:47:23)
+    at Bz.applyToRequestOptions (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificates.ts:65:23)
+    at A2.fetch (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/helix.ts:91:9)
+    at OT.fetchExperiments (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/experiments/fetchExperiments.ts:91:20) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-04-15 16:46:11.279 [info] [certificates] Removed 2 expired certificates
+2025-04-15 16:46:11.751 [info] [fetcher] Using Helix fetcher.
+2025-04-15 16:46:11.752 [info] [code-referencing] Public code references are enabled.
+2025-04-15 16:46:12.168 [info] [fetcher] Using Helix fetcher.
+2025-04-15 16:46:42.129 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Wae.removeExpiredCertificates (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:77:32)
+    at Wae.getAllRootCAs (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:68:38)
+    at Bz.createSecureContext (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-04-15 16:46:42.129 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Wae.removeExpiredCertificates (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:77:32)
+    at Wae.getAllRootCAs (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificateReaders.ts:68:38)
+    at Bz.createSecureContext (/home/antonioc/.vscode/extensions/github.copilot-1.301.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-04-15 16:46:42.129 [info] [certificates] Removed 2 expired certificates
+2025-04-15 16:46:42.552 [info] [fetcher] Using Helix fetcher.
+2025-04-15 16:46:42.552 [info] [code-referencing] Public code references are enabled.
+2025-04-15 16:46:43.218 [info] [fetcher] Using Helix fetcher.
+2025-04-15 16:50:46.052 [warning] [relatedFiles] unknown language python
+2025-04-15 16:50:46.331 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 237.7198320000025 ms
+2025-04-15 16:50:46.333 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-04-15 16:50:46.334 [info] [streamChoices] request done: headerRequestId: [d0600386-3ca2-4f70-8ca2-9e83f94f5fbe] model deployment ID: []
+2025-04-15 16:50:53.689 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 157.81474000000162 ms
+2025-04-15 16:50:53.691 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-04-15 16:50:53.693 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-04-15 16:50:53.694 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-04-15 16:50:53.694 [info] [streamChoices] request done: headerRequestId: [3cc4f840-bdaf-4e36-95a9-0b4438208629] model deployment ID: []

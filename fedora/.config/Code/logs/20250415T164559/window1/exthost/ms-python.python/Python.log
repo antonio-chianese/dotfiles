@@ -1,0 +1,82 @@
+2025-04-15 16:46:00.237 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-15 16:46:00.237 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-15 16:46:00.271 [info] VS Code was launched from an activated environment: 'video', selecting it as the interpreter for workspace.
+2025-04-15 16:46:00.619 [info] > ~/virtualenvs/video/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:01.707 [info] Starting Pylance language server.
+2025-04-15 16:46:09.303 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-15 16:46:09.303 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-15 16:46:09.403 [info] Starting Environment refresh
+2025-04-15 16:46:09.403 [info] Searching for interpreters in posix paths locator
+2025-04-15 16:46:09.405 [info] Searching for pyenv environments
+2025-04-15 16:46:09.405 [info] Searching for conda environments
+2025-04-15 16:46:09.405 [info] Searching for global virtual environments
+2025-04-15 16:46:09.405 [info] Searching for custom virtual environments
+2025-04-15 16:46:09.407 [info] pyenv is not installed
+2025-04-15 16:46:09.407 [info] Finished searching for pyenv environments: 4 milliseconds
+2025-04-15 16:46:09.407 [info] Finished searching for custom virtual envs: 3 milliseconds
+2025-04-15 16:46:09.413 [info] > conda info --json
+2025-04-15 16:46:09.469 [info] Finished searching for global virtual envs: 66 milliseconds
+2025-04-15 16:46:09.477 [info] > /usr/share/anaconda/bin/conda info --json
+2025-04-15 16:46:10.505 [info] Found: /bin/python --> /usr/bin/python3.9
+2025-04-15 16:46:10.513 [info] Found: /bin/python3 --> /usr/bin/python3.13
+2025-04-15 16:46:10.513 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-04-15 16:46:10.514 [info] Found: /bin/python3.9 --> /bin/python3.9
+2025-04-15 16:46:11.298 [info] > ~/virtualenvs/video/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:11.301 [info] Found: /usr/bin/python --> /usr/bin/python3.9
+2025-04-15 16:46:11.301 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-04-15 16:46:11.301 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-04-15 16:46:11.302 [info] Found: /usr/bin/python3.9 --> /usr/bin/python3.9
+2025-04-15 16:46:11.328 [info] Python interpreter path: ~/virtualenvs/video/bin/python
+2025-04-15 16:46:11.331 [info] Found: /home/antonioc/virtualenvs/video/bin/python --> /usr/bin/python3.9
+2025-04-15 16:46:11.331 [info] Found: /home/antonioc/virtualenvs/video/bin/python3 --> /usr/bin/python3.9
+2025-04-15 16:46:11.331 [info] Found: /home/antonioc/virtualenvs/video/bin/python3.9 --> /usr/bin/python3.9
+2025-04-15 16:46:11.347 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:11.375 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:11.391 [info] Finished searching for interpreters in posix paths locator: 1978 milliseconds
+2025-04-15 16:46:11.391 [info] > /bin/python3.13 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:11.411 [info] > /bin/python3.9 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:11.411 [info] Environments refresh paths discovered (event): 2009 milliseconds
+2025-04-15 16:46:11.411 [info] Environments refresh paths discovered: 2009 milliseconds
+2025-04-15 16:46:11.429 [info] Environments refresh finished (event): 2027 milliseconds
+2025-04-15 16:46:11.432 [info] Environment refresh took 2029 milliseconds
+2025-04-15 16:46:11.466 [info] > . ~/virtualenvs/video/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariables.py
+2025-04-15 16:46:11.466 [info] shell: zsh
+2025-04-15 16:46:11.493 [info] > /bin/python3.9 ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariables.py
+2025-04-15 16:46:11.493 [info] shell: zsh
+2025-04-15 16:46:11.508 [info] Prepending environment variable PATH in collection with /home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/zsh:/home/antonioc/virtualenvs/video/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-04-15 16:46:11.508 [info] Prepending environment variable PS1 in collection with (video)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-04-15 16:46:11.508 [info] Send text to terminal: /bin/python3.9 /home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/zsh/envVars.txt
+2025-04-15 16:46:12.394 [info] Starting Pylance language server.
+2025-04-15 16:46:41.029 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-15 16:46:41.029 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-15 16:46:41.029 [warning] Dir "/home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/.pixi/envs" is not watchable (directory does not exist)
+2025-04-15 16:46:41.029 [info] Starting Environment refresh
+2025-04-15 16:46:41.029 [info] Starting Environment refresh
+2025-04-15 16:46:41.029 [info] VS Code was launched from an activated environment: 'video', selecting it as the interpreter for workspace.
+2025-04-15 16:46:41.029 [info] > hatch env show --json
+2025-04-15 16:46:41.029 [info] cwd: .
+2025-04-15 16:46:41.029 [info] Python interpreter path: ~/virtualenvs/video/bin/python
+2025-04-15 16:46:41.345 [info] Active interpreter [/home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim]:  /home/antonioc/virtualenvs/video/bin/python
+2025-04-15 16:46:42.209 [info] > ~/virtualenvs/video/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-15 16:46:42.209 [info] Environments refresh paths discovered: 1235 milliseconds
+2025-04-15 16:46:42.209 [info] Environments refresh paths discovered: 1234 milliseconds
+2025-04-15 16:46:42.228 [info] Environments refresh finished (event): 1254 milliseconds
+2025-04-15 16:46:42.228 [info] Environments refresh finished (event): 1253 milliseconds
+2025-04-15 16:46:42.229 [info] Environment refresh took 1255 milliseconds
+2025-04-15 16:46:42.230 [info] Environment refresh took 1255 milliseconds
+2025-04-15 16:46:42.243 [info] > pyenv which python
+2025-04-15 16:46:42.243 [info] cwd: .
+2025-04-15 16:46:42.311 [info] > . ~/virtualenvs/video/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariables.py
+2025-04-15 16:46:42.311 [info] shell: zsh
+2025-04-15 16:46:42.346 [info] > /bin/python3.9 ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariables.py
+2025-04-15 16:46:42.346 [info] shell: zsh
+2025-04-15 16:46:42.379 [info] Prepending environment variable PATH in collection with /home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/zsh:/home/antonioc/virtualenvs/video/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-04-15 16:46:42.379 [info] Prepending environment variable PS1 in collection with (video)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-04-15 16:46:42.380 [info] Send text to terminal: /bin/python3.9 /home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/antonioc/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/zsh/envVars.txt
+2025-04-15 16:46:52.410 [info] Starting Pylance language server.
+2025-04-15 16:47:12.118 [info] CreateEnv Trigger - Skipping for /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py
+2025-04-15 16:47:40.283 [info] Discover tests for workspace name: manim - uri: /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py
+2025-04-15 16:47:54.192 [info] Discover tests for workspace name: manim - uri: /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py
+2025-04-15 16:48:00.042 [info] Discover tests for workspace name: manim - uri: /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py
+2025-04-15 16:48:01.825 [info] Discover tests for workspace name: manim - uri: /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py
+2025-04-15 16:50:57.253 [info] Discover tests for workspace name: manim - uri: /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim/waves.py

@@ -1,0 +1,46 @@
+2025-04-15 16:46:01.271 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-04-15 16:46:01.697 [info] [Info  - 4:46:01 PM] (80157) Server root directory: file:///home/antonioc/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 16:46:01.697 [info] [Info  - 4:46:01 PM] (80157) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-15 16:46:01.713 [info] [Info  - 4:46:01 PM] (80157) Starting service instance "<default>" for workspace ""
+2025-04-15 16:46:01.733 [info] [Info  - 4:46:01 PM] (80157) No include entries specified; assuming /<default workspace root>
+2025-04-15 16:46:01.733 [info] [Info  - 4:46:01 PM] (80157) Auto-excluding **/node_modules
+2025-04-15 16:46:01.733 [info] [Info  - 4:46:01 PM] (80157) Auto-excluding **/__pycache__
+2025-04-15 16:46:01.733 [info] [Info  - 4:46:01 PM] (80157) Auto-excluding **/.*
+2025-04-15 16:46:01.766 [info] [Error - 4:46:01 PM] (80157) File or directory "/<default workspace root>" does not exist.
+2025-04-15 16:46:01.767 [info] [Info  - 4:46:01 PM] (80157) No source files found.
+2025-04-15 16:46:01.788 [info] [Info  - 4:46:01 PM] (80157) No include entries specified; assuming /<default workspace root>
+2025-04-15 16:46:01.788 [info] [Info  - 4:46:01 PM] (80157) Auto-excluding **/node_modules
+2025-04-15 16:46:01.788 [info] [Info  - 4:46:01 PM] (80157) Auto-excluding **/__pycache__
+2025-04-15 16:46:01.789 [info] [Info  - 4:46:01 PM] (80157) Auto-excluding **/.*
+2025-04-15 16:46:01.802 [info] [Error - 4:46:01 PM] (80157) File or directory "/<default workspace root>" does not exist.
+2025-04-15 16:46:01.802 [info] [Info  - 4:46:01 PM] (80157) No source files found.
+2025-04-15 16:46:02.189 [info] [Info  - 4:46:02 PM] (80157) BG: Priority queue background worker(2) root directory: file:///home/antonioc/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 16:46:02.190 [info] [Info  - 4:46:02 PM] (80157) BG: Priority queue background worker(2) started
+2025-04-15 16:46:42.738 [info] [Info  - 4:46:42 PM] (81628) Server root directory: file:///home/antonioc/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 16:46:42.738 [info] [Info  - 4:46:42 PM] (81628) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-15 16:46:42.738 [info] [Info  - 4:46:42 PM] (81628) Starting service instance "manim" for workspace "/home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim"
+2025-04-15 16:46:42.793 [info] [Info  - 4:46:42 PM] (81628) Setting environmentName for service "manim": "3.9.21 (video venv)"
+2025-04-15 16:46:42.793 [info] [Info  - 4:46:42 PM] (81628) Setting pythonPath for service "manim": "/home/antonioc/virtualenvs/video/bin/python"
+2025-04-15 16:46:42.794 [info] [Info  - 4:46:42 PM] (81628) No include entries specified; assuming /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim
+2025-04-15 16:46:42.794 [info] [Info  - 4:46:42 PM] (81628) Auto-excluding **/node_modules
+2025-04-15 16:46:42.794 [info] [Info  - 4:46:42 PM] (81628) Auto-excluding **/__pycache__
+2025-04-15 16:46:42.795 [info] [Info  - 4:46:42 PM] (81628) Auto-excluding **/.*
+2025-04-15 16:46:42.828 [info] [Info  - 4:46:42 PM] (81628) Assuming Python version 3.9.21.final.0
+2025-04-15 16:46:42.887 [info] [Info  - 4:46:42 PM] (81628) Found 1 source file
+2025-04-15 16:46:42.907 [info] [Info  - 4:46:42 PM] (81628) Setting environmentName for service "manim": "3.9.21 (video venv)"
+2025-04-15 16:46:42.907 [info] [Info  - 4:46:42 PM] (81628) Setting pythonPath for service "manim": "/home/antonioc/virtualenvs/video/bin/python"
+2025-04-15 16:46:42.907 [info] [Info  - 4:46:42 PM] (81628) No include entries specified; assuming /home/antonioc/Documents/school_docs/hs/subjects/computer_science/py/manim
+2025-04-15 16:46:42.907 [info] [Info  - 4:46:42 PM] (81628) Auto-excluding **/node_modules
+2025-04-15 16:46:42.907 [info] [Info  - 4:46:42 PM] (81628) Auto-excluding **/__pycache__
+2025-04-15 16:46:42.907 [info] [Info  - 4:46:42 PM] (81628) Auto-excluding **/.*
+2025-04-15 16:46:42.927 [info] [Info  - 4:46:42 PM] (81628) Assuming Python version 3.9.21.final.0
+2025-04-15 16:46:43.341 [info] [Info  - 4:46:43 PM] (81628) Found 1 source file
+2025-04-15 16:46:43.762 [info] [Info  - 4:46:43 PM] (81628) BG: Priority queue background worker(2) root directory: file:///home/antonioc/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 16:46:43.762 [info] [Info  - 4:46:43 PM] (81628) BG: Priority queue background worker(2) started
+2025-04-15 16:46:43.762 [info] [Info  - 4:46:43 PM] (81628) BG: Indexer background runner(3) root directory: file:///home/antonioc/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-15 16:46:43.762 [info] [Info  - 4:46:43 PM] (81628) BG: Indexing(3) started
+2025-04-15 16:46:44.090 [info] [Info  - 4:46:44 PM] (81628) BG: scanned(3) 67 files over 1 exec env
+2025-04-15 16:46:45.446 [info] [Info  - 4:46:45 PM] (81628) BG: indexed(3) 67 files over 1 exec env
+2025-04-15 16:46:45.470 [info] [Info  - 4:46:45 PM] (81628) BG: Indexing finished(3).
+2025-04-15 16:46:52.410 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-04-15 16:46:52.410 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
