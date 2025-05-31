@@ -1,0 +1,6 @@
+2025/05/15-16:27:15.897 257f Reusing MANIFEST /home/antonioc/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/05/15-16:27:15.933 257f Recovering log #34
+2025/05/15-16:27:15.940 257f Reusing old log /home/antonioc/.config/google-chrome/Default/Sync Data/LevelDB/000034.log 
+2025/05/15-16:27:17.121 259d Level-0 table #39: started
+2025/05/15-16:27:17.123 259d Level-0 table #39: 150484 bytes OK
+2025/05/15-16:27:17.124 259d Delete type=0 #34

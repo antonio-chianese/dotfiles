@@ -1,0 +1,7 @@
+2025-05-28 20:59:13.041 [info] Started local extension host with pid 43589.
+2025-05-28 20:59:13.060 [info] Started initializing default profile extensions in extensions installation folder. file:///home/antonioc/.vscode/extensions
+2025-05-28 20:59:13.060 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-28 20:59:13.135 [info] ComputeTargetPlatform: linux-x64
+2025-05-28 20:59:13.173 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/antonioc/.vscode/extensions
+2025-05-28 20:59:13.463 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-28 20:59:15.961 [info] [perf] Render performance baseline is 15ms

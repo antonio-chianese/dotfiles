@@ -1,0 +1,6 @@
+2025/05/18-18:43:16.763 4 Reusing MANIFEST /home/antonioc/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/18-18:43:16.772 4 Recovering log #4
+2025/05/18-18:43:16.776 4 Reusing old log /home/antonioc/.config/google-chrome/Default/Local Storage/leveldb/000004.log 
+2025/05/18-18:52:38.370 5 Level-0 table #8: started
+2025/05/18-18:52:38.372 5 Level-0 table #8: 46794 bytes OK
+2025/05/18-18:52:38.373 5 Delete type=0 #4

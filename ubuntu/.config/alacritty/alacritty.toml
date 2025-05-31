@@ -1,0 +1,18 @@
+# [window]
+# opacity = 0.8
+# # padding = { y = 0 }
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+
+# -- /home/antonioc/.local/share/fonts/
+
+normal = { family = "Maple Mono NF", style = "Regualar" }
+bold = { family = "Maple Mono NF", style = "Bold" }
+italic = { family = "Maple Mono NF", style = "Italic" }
+bold_italic = { family = "Maple Mono NF", style = "BoldItalic" }
+
+size = 11

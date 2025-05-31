@@ -1,0 +1,33 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://freshfruittab.com/favicon.ico",
+         "is_default": true,
+         "keyword": "freshfruittab.com",
+         "name": "Fresh Fruit Search",
+         "search_url": "https://freshfruittab.com/search?q={searchTerms}"
+      }
+   },
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset",
+         "path": "rules.json"
+      } ]
+   },
+   "description": "Extension adding Fresh Fruit search engine to Chrome.",
+   "host_permissions": [ "*://freshfruittab.com/*" ],
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvm/3/f4YKclYjckWqpFNs/e8MSneyFkUe57c0RgpDslOBLQRrMWYVQgMM3YXEcUnPNcXRyFSYGwyvQN7KUJaRNBKARRux45NZVX3C2Xvp1bf8E6K/TXg6punGx2fkOYW+K3h9gs6ep7X/UjYfJcPmxhjSoFAW6U0LIIvtxcB7+KLrNrUTRKUJFbjyTy4JZK9udI3rBfMBwVfXsgn1UH2fNsKrKLrs+sy+0pEllEMvEP0RTDBFS+BFXbQJLcsl5Vtr56dR6uQ9510RGKXhbx0pz/CgUs+I4N3PecutO849hkyqOFR+6N2FG/9KH4VPBR63PteDTA7Rf/H2Uj+FEfuvQIDAQAB",
+   "manifest_version": 3,
+   "name": "Fresh Fruit Search",
+   "permissions": [ "storage", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.5"
+}

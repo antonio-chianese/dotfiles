@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=ninochianese.08@gmail.com
+Enabled=true
+Parent=576912ae42990e8fe2ef16b3742a9ae97267b0e8
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=bbc289b3dc058fc8ad60c2d024c171037da91e6a
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=ninochianese.08@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
